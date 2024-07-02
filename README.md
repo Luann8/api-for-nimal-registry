@@ -16,7 +16,7 @@ go run main.go
 3. **Testar a API**:
 Você pode usar ferramentas como curl ou Postman para testar a API.
 
-Registrar um novo animal
+4. **Registrar um novo animal**
 Para registrar um novo animal, utilize o seguinte comando curl:
 
 ```sh
